@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on **Micro Frontends, LLM Applications & Data Lakehouses**
 - 🌱 I’m currently learning about **AWS Architecture**
-- 💬 Ask me about **C#, Python, Java**
-- 📝 I write articles at [juanmarcelo.info](https://juanmarcelo.info)
+- 💬 Ask me about **C#, Python, Java, PHP**
+- 📝 I write articles at [juanmarcelo.info](https://juanmarcelo.info){:target="_blank"}
 
 ## Latest blog posts
 
