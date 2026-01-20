@@ -21,4 +21,4 @@
 - [My LinkedIn Profile](https://www.linkedin.com/in/jmes/)
 <!-- OTHER-LINKS-LIST:END -->
 
-<center>![](https://komarev.com/ghpvc/?username=juanmarceloespinosa&color=blue)</center>
+![](https://komarev.com/ghpvc/?username=juanmarceloespinosa&color=blue&style=for-the-badge)
