@@ -20,3 +20,5 @@
 - [Useful Stuff](https://juanmarcelo.info/cositas-utiles/)
 - [My LinkedIn Profile](https://www.linkedin.com/in/jmes/)
 <!-- OTHER-LINKS-LIST:END -->
+
+![](https://komarev.com/ghpvc/?username=juanmarceloespinosa&color=dc143c)
