@@ -4,10 +4,12 @@
 
 <h3 align="center">Software Developer & Technical Project Manager</h3> 
 
+Welcome to my profile!
 - 🔭 I’m currently working on **Micro Frontends, LLM Applications & Data Lakehouses**
 - 🌱 I’m currently learning about **AWS Architecture**
 - 💬 Ask me about **C#, Python, Java, PHP**
 - 📝 I write articles at [juanmarcelo.info](https://juanmarcelo.info)
+Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jmes/)!
 
 ## Latest blog posts (In Spanish)
 
