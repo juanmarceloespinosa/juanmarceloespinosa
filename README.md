@@ -1,4 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Juan Marcelo</h1>
+[![Linkedin Badge](https://img.shields.io/badge/-jmes-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmes/)](https://www.linkedin.com/in/jmes/)
+[![Website Badge](https://img.shields.io/badge/-juanmarcelo.info-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://juanmarcelo.info)](https://juanmarcelo.info)
 <h3 align="center">Software Developer & Technical Project Manager</h3> 
 
 - 🔭 I’m currently working on **Micro Frontends, LLM Applications & Data Lakehouses**
