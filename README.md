@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Juan Marcelo</h1>
 
-![Linkedin Badge](https://img.shields.io/badge/-jmes-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmes/) ![Website Badge](https://img.shields.io/badge/-juanmarcelo.info-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://juanmarcelo.info) [![Stack Overflow Badge](https://img.shields.io)](https://sharepoint.stackexchange.com/users/30409/marcelo-espinosa)
+![Linkedin Badge](https://img.shields.io/badge/-jmes-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmes/) ![Website Badge](https://img.shields.io/badge/-juanmarcelo.info-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://juanmarcelo.info)
 
 <h3 align="center">Software Developer & Technical Project Manager</h3> 
 
