@@ -6,7 +6,7 @@
 
 Welcome to my profile!
 - 🔭 I’m currently working on **Micro Frontends, LLM Applications & Data Lakehouses**
-- 🌱 I’m currently learning about **AWS Architecture**
+- 🌱 I’m currently learning about **AWS BUsiness Strategies**
 - 💬 Ask me about **C#, Python, Java, PHP**
 - 📝 I write articles at [juanmarcelo.info](https://juanmarcelo.info)
 
