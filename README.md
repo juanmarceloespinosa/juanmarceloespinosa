@@ -17,7 +17,7 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jmes/)
 <!-- BLOG-POST-LIST:START -->
 - [Extraer texto desde una imagen utilizando Python](https://juanmarcelo.info/2022/09/19/extraer-texto-desde-una-imagen-utilizando-python/)
 - [Spring Boot](https://juanmarcelo.info/2024/12/15/spring-boot/)
-- [Iniciar, Reiniciar y Detener el servidor Wildfly](https://juanmarcelo.info/2024/09/13/iniciar-reiniciar-y-detener-el-servidor-wildfly/)
+- [El fin del software genérico](https://juanmarcelo.info/2026/08/25/el-fin-del-software-generico/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My other links
