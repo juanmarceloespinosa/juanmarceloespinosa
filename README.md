@@ -15,9 +15,9 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jmes/)
 ## Latest blog posts (In Spanish)
 
 <!-- BLOG-POST-LIST:START -->
+- [El fin del software genérico](https://juanmarcelo.info/2026/08/25/el-fin-del-software-generico/)
 - [Extraer texto desde una imagen utilizando Python](https://juanmarcelo.info/2022/09/19/extraer-texto-desde-una-imagen-utilizando-python/)
 - [Spring Boot](https://juanmarcelo.info/2024/12/15/spring-boot/)
-- [El fin del software genérico](https://juanmarcelo.info/2026/08/25/el-fin-del-software-generico/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My other links
